@@ -1,0 +1,17 @@
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+.centered {
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
