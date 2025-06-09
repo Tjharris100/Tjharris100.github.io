@@ -39,7 +39,7 @@ while (true) {
     if (typeof result === "number" && !isNaN(result)) {
         results.push(result);
     }
-    
+
 }
 if (results.length > 0) {
     let min = Math.min(...results);
